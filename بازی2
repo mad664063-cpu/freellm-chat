@@ -1,0 +1,5 @@
+{
+  "base_url": "http://localhost:3001/v1",
+  "api_key": "PUT-YOUR-UNIFIED-FREELLMAPI-KEY-HERE",
+  "model": "auto"
+}
